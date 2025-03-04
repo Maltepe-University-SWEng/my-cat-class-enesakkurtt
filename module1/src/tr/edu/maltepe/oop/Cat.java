@@ -34,7 +34,7 @@ public class Cat {
         this.age = age;
     }
 
-    // meow metodu: /Users/muesalmy/Downloads konumundaki "cat.wav" dosyasını çalar
+    // meow metodu: /Users/ennes/Downloads konumundaki "cat.wav" dosyasını çalar
     public void meow() {
         try {
             // "cat.wav" dosyasının mutlak yolu
